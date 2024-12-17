@@ -12,3 +12,4 @@ Le notebook Prediction.ipynb présente les différents modèles de classificatio
 
 Enfin, il fallait sélectionner les bonnes métriques adéquates pour pouvoir évaluer correctement la performance des modèles en fonction du type d'erreur que l'on souhaite minimiser (erreur de type 1 VS erreur de type 2). 
 
+Le fichier Presentation.pptx présente la démarche qui a été mise en œuvre tout au long du projet ainsi que les conclusions sur le choix du modèle final et les améliorations possibles.
